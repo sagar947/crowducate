@@ -4,9 +4,8 @@ Rebuilding [Crowducate](http://crowducate.me) platform using Meteor 1.x
 Get involved
 ===========
 There are many ways to get involved:
-* Join our team chatroom: [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Crowducate/openchat)
-* Contribute to our [Planning Documents](https://crowducate.hackpad.com)
-* Add a task to our [Github issue queue](https://github.com/Crowducate/crowducate-next/issues)
+* Join our team chatroom: [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/indas-crowducate/General)
+* Add a task to our [Github issue queue](https://github.com/sagar947/crowducate/issues)
 * Send a pull request with your custom code! :-)
 
 System Overview
@@ -14,20 +13,6 @@ System Overview
 Our planned system includes a full system model for collaboration on and sharing of [Open Educational Resources](https://en.wikipedia.org/wiki/Open_educational_resources).
 
 ![Crowducate System Overview](https://rawgit.com/Crowducate/crowducate-next/development/docs/design/Crowducate-systemOverview.svg)
-
-
-Resources
-========
-### Current development
-* [Planning and design documents](http://crowducate.hackpad.com)
-* [Developer task board](https://waffle.io/Crowducate/crowducate-platform) [![Stories in Ready](https://badge.waffle.io/Crowducate/crowducate-next.svg?label=ready&title=Ready)](http://waffle.io/Crowducate/crowducate-next)
-* Automated code analysis: [![bitHound Score](https://www.bithound.io/Crowducate/crowducate-next/badges/score.svg?)](https://www.bithound.io/Crowducate/crowducate-next)
-[![Code Climate](https://codeclimate.com/github/Crowducate/crowducate-next/badges/gpa.svg)](https://codeclimate.com/github/Crowducate/crowducate-next)
-
-### Original prototype
-* [Original project](http://crowducate.me)
-* [Original sourcecode](https://github.com/Crowducate/crowducate.me)
-
 
 Installation
 ============
@@ -37,8 +22,7 @@ Meteor
 This application is built with [Meteor.js](http://meteor.com). You will need to have Meteor installed.
 
 Install Meteor on:
-* [GNU/Linux or Mac OSX](http://docs.meteor.com/#/basic/)
-* [Microsoft Windows](http://win.meteor.com)
+* [GNU/Linux or Mac OSX](https://www.meteor.com/developers/install/)
 
 Git
 ---
@@ -47,15 +31,12 @@ Once Meteor is installed, make sure you [install Git](http://git-scm.com/book/en
 Crowducate
 --------
 Now you can clone and run the application with the following commands:
-* `git clone https://github.com/crowducate/crowducate-platform.git` - clone the repository
-* `cd crowducate-platform` - change into the sourcecode directory
-* `meteor` - run the application
+* `git clone https://github.com/sagar947/crowducate.git` - Clone the repository
+* `cd crowducate` - Change into the sourcecode directory
+* `npm install` - Install NPM dependencies
+* `meteor` - Run the application
 
 You should now be able to visit the running app at [localhost:3000](http://localhost:3000)
-
-Roadmap
-=======
-We have an [open Hackpad discussion](https://hackpad.com/Crowducate-Roadmap-Ideas-ATAX9ZTodoe) where we are planning the future of Crowducate. Come and add your opinion, expertise, and vision!
 
 Guiding Principles
 ==================
