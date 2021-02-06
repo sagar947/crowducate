@@ -1,0 +1,52 @@
+# Meteor packages used by this project, one per line.
+#
+# 'meteor add' and 'meteor remove' will edit this file for you,
+# but you can also edit it by hand.
+
+less
+accounts-password@1.7.0
+useraccounts:bootstrap
+alanning:roles
+zimme:iron-router-active
+cmather:handlebars-server@0.2.0
+dburles:collection-helpers
+reywood:publish-composite
+mrt:moment
+mrt:underscore-string-latest
+matb33:collection-hooks
+dburles:factory
+anti:fake
+# cunneen:mailgun
+iron:router@1.0.0
+yasinuslu:blaze-meta
+insecure@1.0.7
+jeremy:selectize
+reactive-var@1.0.11
+rubaxa:sortable
+cfs:filesystem
+cfs:standard-packages
+gadicohen:messageformat
+browser-policy@1.1.0
+aldeed:autoform
+aldeed:collection2
+babrahams:editable-text-wysiwyg-bootstrap-3
+useraccounts:iron-routing
+juliancwirko:s-alert
+meteor-base@1.4.0
+mobile-experience@1.1.0
+mongo@1.10.1
+blaze-html-templates
+session@1.2.0
+jquery
+tracker@1.2.0
+logging@1.2.0
+reload@1.3.1
+random@1.2.0
+ejson@1.1.1
+spacebars
+check@1.3.1
+standard-minifier-css
+standard-minifier-js
+shell-server
+dynamic-import
+underscore
